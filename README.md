@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NetVuln Scanner
 
 A comprehensive network vulnerability scanner powered by Nmap with a modern web dashboard, role-based access control, and detailed reporting capabilities.
@@ -132,8 +133,8 @@ docker-compose logs -f api
 
 | Variable | Description |
 |----------|-------------|
-| `VITE_SUPABASE_URL` | Your Supabase project URL |
-| `VITE_SUPABASE_ANON_KEY` | Supabase anonymous key |
+| https://qgxlpyfovshhbzyqtrib.supabase.co | Your Supabase project URL |
+| eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFneGxweWZvdnNoaGJ6eXF0cmliIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE0MzMyNDcsImV4cCI6MjA5NzAwOTI0N30.W9fCT61YGewbA7ekkDo4In_iBX9R2mzU44CuHa9L6MY | Supabase anonymous key |
 
 ## Scan Types
 
@@ -269,3 +270,6 @@ MIT License - see LICENSE file for details.
 ## Support
 
 For issues and feature requests, please use GitHub Issues.
+=======
+# netvuln-scanner
+>>>>>>> 466ab56f1a57129efc9ea9cc0cf4eaa7366a468e
